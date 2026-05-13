@@ -70,3 +70,4 @@ The Plotly dashboard generates interactive charts for:
 6. Open the notebooks:
    - `notebooks/01_data_cleaning.ipynb`
    - `notebooks/02_rfm_analysis.ipynb`
+good
